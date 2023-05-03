@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8f739542-ce8b-4091-ab83-a1106687f724",
+		"name": "POSTMAN",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27232727"
+	},
+	"item": [
+		{
+			"name": "Lista de usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Consulta ID4",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
